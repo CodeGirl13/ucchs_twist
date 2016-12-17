@@ -1,0 +1,183 @@
+body{
+    font-family: 'Righteous', cursive;
+    background-color: #9ec2b5;
+        text-align:center;
+
+}
+
+div {
+    color: #1e344c;
+}
+
+#religion {
+   display: inherit;
+}
+#submit-name{
+  color: green;
+  border:solid black;
+}
+
+.page2 button{
+    color: green;
+}
+
+#race{
+   display: inherit;
+}
+
+#gender{
+     display: inherit;
+}
+
+#Immigration{
+    display: inherit;
+}
+
+.same{
+    color: blue;
+    height: 30px;
+    background-color: white;
+    border:solid black;
+    font-family: 'Gentium Basic', serif;
+    padding: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.input{
+    padding:5px;
+    border: solid 1px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+}
+
+
+input:focus{
+    border:solid 5px #707070;
+    /*box-shadow: 10px 10px 5px 10px #9669696;*/
+    /*box-shadow: 35px 24px 52px 3px #90BF75;*/
+    box-shadow: 9px 10px 59px -7px black;
+}
+
+.div.shadow{
+    box-shadow: 35px 24px 52px 3px black;
+}
+
+
+#gendershow{
+    position: relative;
+}
+
+#genderno {
+    color:green;
+    top:0px;
+    position: relative;
+}body{
+    font-family: 'Righteous', cursive;
+    background-color: #9ec2b5;
+    text-align: center;
+}
+
+div {
+    color: #1e344c;
+}
+
+#religion {
+   display: inherit;
+   margin:10px;
+   padding:5px;
+}
+#submit-name{
+    
+  color: green;
+  border:solid black;
+}
+
+.page2 button{
+    color: green;
+}
+
+#race{
+   display: inherit;
+   padding:5px;
+   margin:10px;
+}
+
+#gender{
+     display: inherit;
+     padding:5px;
+     margin:10px;
+}
+
+.same{
+    color: blue;
+    height: 30px;
+    background-color: white;
+    border:solid black;
+    font-family: 'Gentium Basic', serif;
+    padding: 9px;
+    padding-left: 2px;
+    padding-right: 9px;
+    margin: 0 auto;
+}
+
+.input{
+    padding:5px;
+    border: solid 1px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+}
+
+
+input:focus{
+    border:solid 5px #707070;
+    /*box-shadow: 10px 10px 5px 10px #9669696;*/
+    /*box-shadow: 35px 24px 52px 3px #90BF75;*/
+    box-shadow: 9px 10px 59px -7px black;
+}
+
+.div.shadow{
+    box-shadow: 35px 24px 52px 3px black;
+}
+
+
+#gendershow{
+    position: relative;
+    top: 0px;
+    right: 0px;
+}
+
+#genderno {
+    color:green;
+    position: relative;
+    border:solid black;
+    right:0px;
+    top:0;
+}
+#religionno{
+  position: relative;
+    top: 0px;
+    right: 0px; 
+    color: green;
+    border:solid black;
+}
+#raceno{
+  position: relative;
+    top: 0px;
+    right: 0px; 
+    color: green;
+    border:solid black;
+}
+#religionyes{
+ position:relative;
+  top:0px;
+  right:0px;
+  color:green;
+ border:solid black;
+}
+#raceyes{
+    color:green;
+    border:solid black;
+}
+#genderyes{
+    color:green;
+    border:solid black;
+}

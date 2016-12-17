@@ -1,0 +1,61 @@
+body{
+    font-family: 'Righteous', cursive;
+    background-color: #9ec2b5
+}
+
+
+
+div {
+    
+    color: #1e344c;
+}
+
+#religion {
+   
+}
+#submit-name{
+    
+  color: green;
+  border:solid black;
+}
+.page2 button{
+    color:green;
+}
+#race{
+   
+}
+#gender{
+     
+}
+#Immigration{
+    
+}
+.same{
+    color: blue;
+    height: 30px;
+    background-color: white;
+    border:solid black;
+    font-family: 'Gentium Basic', serif;
+    padding:9px;
+    padding-left: 2px;
+    padding-right: 9px
+
+}
+
+.input{
+    padding:5px;
+    border: solid 1px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+}
+
+
+input:focus{
+    border:solid 5px #707070;
+    /*box-shadow: 10px 10px 5px 10px #9669696;*/
+    /*box-shadow: 35px 24px 52px 3px #90BF75;*/
+    box-shadow: 9px 10px 59px -7px black;
+}
+
+.div.shadow{
+box-shadow: 35px 24px 52px 3px black;
+}
